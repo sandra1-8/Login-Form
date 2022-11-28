@@ -1,0 +1,69 @@
+.main{
+    border-style:solid;
+    border-color: rgb(214, 218, 218);
+    width:490px;
+}
+
+h2{
+    align-items: center;
+    text-align: center;
+}
+
+#dp{
+    
+    padding-left: 30px;
+    border-radius: 50%;
+    width:25%;
+    height:25%;
+}
+
+#pic{
+    display: flex;
+    justify-content: center;
+}
+
+#buttonsubmit{
+    background-color:green;
+    color:white;
+    width: 60px;
+}
+
+#buttonsubmit:hover{
+    background-color: rgb(54, 216, 54);
+}
+#buttoncancel{
+    background-color: rgb(235, 69, 69);
+    color: white;
+    width: 60px;
+}
+#buttoncancel:hover{
+    background-color: rgb(180, 19, 19);
+}
+#userform{
+    text-align: center;
+}
+.moveleft{
+    margin-right: 100px;;
+}
+
+#forgotpass{
+    text-decoration: none;
+}
+.linkclass{
+    padding-left: 10px;
+    text-align: center;
+   
+    text-decoration: none;
+    color: aliceblue;
+}
+.navbar{
+    background-color: rgb(43, 42, 42);
+    color: aliceblue;
+    height:40px;
+    align-items: center;
+    text-align:right;
+    padding-top: 13px;
+    text-align:center;
+     box-shadow:  2px 4px  rgba(39, 36, 36, 0.2);
+  
+}
